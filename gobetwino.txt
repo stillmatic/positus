@@ -1,0 +1,6 @@
+#S|MONITOR|SPRID|[nircmd.exe&monitor off]#
+#S|STANDBY|SPRID|[nircmd.exe&standby]#
+#S|POPUP|SPRID|[popup.bat&]#
+#S|BTIME|SPRID|[tobreak.bat&]#
+#S|MONITOR2|SPWEX|[nircmd.exe&monitor off&10000]#
+#S|KILLIT|SPRID|[kill.bat&]#
